@@ -5,5 +5,6 @@ This portfolio showcases my work as a web developer. It includes examples of my 
  #Technologies Used
  
 HTML5: For structuring the content.
+
 CSS3: For styling and layout, including Flexbox and Grid.
 
